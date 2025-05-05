@@ -34,6 +34,14 @@ Automatically tracks how long each battery remains in defined SOC bands:
 User-friendly interface in LabVIEW.  
 All data (OCVs, SOCs, temperature, humidity, SOC duration) is logged in structured CSV files.  
 
+LabVIEW Design and Programming Techniques
+To ensure code maintainability, scalability, and performance, the LabVIEW application utilizes advanced development practices:
+State Machine (SM) for controlling test sequencing
+Use of SubVIs for clean modular architecture
+Queues for robust and non-blocking data communication between loops
+Type Definitions (TypeDefs) to enforce consistent data structures
+These techniques mirror professional LabVIEW development practices commonly used in test engineering environments.
+
 **System Requirements**  
 LabVIEW (2017 or later recommended) and NI MAX  
 Arduino Uno or compatible  
