@@ -1,8 +1,7 @@
 # LabVIEW-Battery-Diagnostics  
 
-Battery SOC Estimation and Environmental Monitoring System  
-
 **Battery SOC Estimation and Environmental Monitoring System**  
+
 This LabVIEW project estimates the State of Charge (SOC) of batteries using the Open Circuit Voltage (OCV) Method, monitors environmental conditions, and logs key performance data. It's designed to support battery diagnostics and testing workflows by integrating both hardware and software tools.  
 
 **Features**  
