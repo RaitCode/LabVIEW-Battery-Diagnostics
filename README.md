@@ -34,7 +34,7 @@ Automatically tracks how long each battery remains in defined SOC bands:
 User-friendly interface in LabVIEW.  
 All data (OCVs, SOCs, temperature, humidity, SOC duration) is logged in structured CSV files.  
 
-**LabVIEW Design and Programming Techniques**
+**LabVIEW Design and Programming Techniques**  
 To ensure code maintainability, scalability, and performance, the LabVIEW application utilizes advanced development practices:  
 State Machine (SM) for controlling test sequencing  
 Use of SubVIs for clean modular architecture  
