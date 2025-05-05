@@ -36,10 +36,10 @@ All data (OCVs, SOCs, temperature, humidity, SOC duration) is logged in structur
 
 **LabVIEW Design and Programming Techniques**  
 To ensure code maintainability, scalability, and performance, the LabVIEW application utilizes advanced development practices:  
-State Machine (SM) for controlling test sequencing  
-Use of SubVIs for clean modular architecture  
-Queues for robust and non-blocking data communication between loops  
-Type Definitions (TypeDefs) to enforce consistent data structures  
+State Machine (SM) for controlling test sequencing.  
+Use of SubVIs for clean modular architecture.  
+Queues for robust and non-blocking data communication between loops.  
+Type Definitions (TypeDefs) to enforce consistent data structures.  
 These techniques mirror professional LabVIEW development practices commonly used in test engineering environments.  
 
 **System Requirements**  
