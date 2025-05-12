@@ -7,6 +7,7 @@ This LabVIEW project estimates the State of Charge (SOC) of batteries using the 
 **Features**  
 *SOC Estimation via OCV Method*  
 Calculates SOC based on the known relationship between open circuit voltage and state of charge for different battery chemistries.  
+AA size batteries have been used to simulate the various battery packs.  
 
 *Customizable Battery Configuration*  
 User inputs include:  
@@ -42,8 +43,8 @@ Type Definitions (TypeDefs) to enforce consistent data structures.
 These techniques mirror professional LabVIEW development practices commonly used in test engineering environments.  
 
 **System Requirements**  
-LabVIEW (2017 or later recommended) and NI MAX  
-Arduino Uno or compatible  
+LabVIEW (2019 or later recommended) and NI MAX  
+Arduino Uno or Arduino Mega    
 DHT22 Sensor  
 Potentiometer  
 NI-VISA drivers for serial communication  
