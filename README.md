@@ -55,3 +55,7 @@ Load the Arduino sketch to handle temperature/humidity and serial communication.
 Open the LabVIEW VI.  
 Configure your battery parameters and start the session.  
 Observe SOC, environmental conditions, and SOC band durations in real-time.  
+
+📹 **Video Demonstration**  
+Project in action: https://drive.google.com/file/d/1Opk7S3aRjOdFO5R93bkk3rGVBGw3Nyo9/view?usp=sharing  
+
