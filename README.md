@@ -10,8 +10,7 @@ Calculates SOC based on the known relationship between open circuit voltage and 
 
 *Customizable Battery Configuration*  
 User inputs include:  
-Cell chemistry  
-Nominal voltage  
+Cell chemistry   
 Number of series/parallel cells per module  
 Number of modules per pack  
 
