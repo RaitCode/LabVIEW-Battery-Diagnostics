@@ -7,7 +7,7 @@ This LabVIEW project estimates the State of Charge (SOC) of batteries using the 
 **Features**  
 *SOC Estimation via OCV Method*  
 Calculates SOC based on the known relationship between open circuit voltage and state of charge for different battery chemistries.  
-AA size batteries have been used to simulate the various battery packs.  
+AA size batteries were used to simulate the various battery packs.  
 
 *Customizable Battery Configuration*  
 User inputs include:  
