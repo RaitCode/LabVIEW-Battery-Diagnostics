@@ -25,10 +25,10 @@ SOC changes simulated using a potentiometer to emulate voltage shifts.
 *SOC Range Duration Logging*  
 Automatically tracks how long each battery remains in defined SOC bands:  
 100–75%  
-75–50%  
-50–25%  
-25–10%  
-10–0%  
+100–50%  
+100–25%  
+100–10%  
+100–0%  
 
 *Live Dashboard + Data Logging*  
 User-friendly interface in LabVIEW.  
