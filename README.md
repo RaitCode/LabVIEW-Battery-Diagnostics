@@ -59,5 +59,5 @@ Observe SOC, environmental conditions, and SOC band durations in real-time.
 
 📹 **Video Demonstration**  
 Hardware Setup: https://drive.google.com/file/d/1hWF3CI3OBAQfrUSNdoTZlU4-vL8aGdto/view?usp=sharing  
-Project in action:  
+Project in action:  https://drive.google.com/file/d/1drgNqLGD0UWKhNkB90gGlfV_svL5caQ1/view?usp=sharing
 
